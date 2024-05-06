@@ -1,0 +1,16 @@
+Welcome to polynomial documentation! 
+
+
+There are some rules about using menager here:
+
+1.Polinome input:
+The normal polinome looks like this: x^2+2x+1
+All variables are one-letter ab = a*b
+Mistakes:
+	-Nums after varibles: a34
+	-Varibles in degree: a^dc
+	-Leading nulls: 00x
+	-Use incomprehensible simbols: 1! , @#$%&*() etc.
+2.Buttons:
+All buttons do what they say!
+I beg you, read the dialog boxes and enter the correct data.
